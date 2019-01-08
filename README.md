@@ -8,4 +8,4 @@ I then added some Peterson-esque element of "things to stop doing" and gave an e
 
 People have so far reacted well to the list, so I included it here.
 
-![todo_list](/master/todo_list.jpg?raw=true "ToDo List")
+![todo_list](/todo_list.jpg?raw=true "ToDo List")
