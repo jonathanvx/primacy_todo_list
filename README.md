@@ -7,3 +7,5 @@ I supplemented the list with "thrive" as the other side of the coin to "survive"
 I then added some Peterson-esque element of "things to stop doing" and gave an example from Peikoff about what those might be. Then instead of focusing on a negative, I added a column to focus on what to value and what action to take in a positive way.
 
 People have so far reacted well to the list, so I included it here.
+
+![todo_list](/master/todo_list.jpg?raw=true "ToDo List")
