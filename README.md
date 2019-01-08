@@ -1,4 +1,4 @@
-I have learnt in my life that systems based on "Primacy" are more effective than systems based on "Balanced"
+I have learnt in my life that systems based on "Primacy" are more effective than systems based on "Balance". This is because balance is largely based on subjective feelings that are hard to gage and you can only take action when you are 'out of balance'. Primacy-based systems help with taking action sooner while creating a hierachy of values.
 
 I discovered Rand's primacy-based model for life which starts at survival and then continued to being productive as a human value.
 
