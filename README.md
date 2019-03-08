@@ -22,7 +22,7 @@ Philosophy of Systems:
 - Identifying risks for unintended consequences is a concept from systems theory. As in, do not try to make a change to a system that may result in breaking the whole system.
 
 Jordan Peterson
-- In 'waste', there is the concept to stop doing something which doesn't help you. In the first version of the todo list, this was included in this way. This time, I felt that it had to be clearer or people would not use that section, so I included examples from Stoicism. Waste is also a concept in Biology for creatures that seek for resources, but then waste them on less than efficient reasons.
+- In 'waste', there is the concept to stop doing something which don't help you. In the first version of the todo list, this was included in this way. This time, I felt that it had to be clearer or people would not use that section, so I included examples from Stoicism. Waste is also a concept in Biology for creatures that seek for resources, but then waste them on less than efficient reasons.
 
 Evolutionary Psychology and Biology
 - I tried to make this list echo Biology, because I acknowledge that we are all animals and that those have influences on us as well as we live in a biological world. Luckily, we have creativity and reason and we use those cognitive tools to survive, be productive, evolve and thrive.
