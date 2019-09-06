@@ -1,4 +1,6 @@
-![todo_list](/todo_list.jpg?raw=true "ToDo List")
+![todo_list](/todo_list.png?raw=true "ToDo List")
+
+On version 3.
 
 The ToDo list is based on a few philosophies and has quite a bit of thought and experience put into it.
 Here is an explanation about them:
