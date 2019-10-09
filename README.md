@@ -16,5 +16,7 @@ Here is an explanation about them:
 - We should identify bottlenecks that slow us down from reaching our goals and we need to be aware of them
 - Once we remove them, we can increase our metaphysical efficacy and reach our values faster
 
+## Jordan Peterson
+- The 'to stop' part was taken from Peterson. He talks about stop doing things that take you away from your goals and to-do lists don't often have 'to-stop' parts to them and it did seem like a good idea to focus on what not to do as well as what to do.
 
 
