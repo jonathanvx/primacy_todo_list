@@ -16,13 +16,14 @@ Productive - What things should you do this week to be productive?
 5.
 
 Thrive - What things can you to this week to pursue your own happiness?
-1.
-2.
-3.
-4.
-5.
+- Purpose/Work: 
+- Family/Friends: 
+- Health/Energy: 
+- Learn/Discover: 
+- Create/Build: 
+- Fun/Happiness: 
 
-Impedements - What things are slowing you down from reaching your goals?
+Stop - What things should you stop doing that take you further away from your goals and your happiness?
 1.
 2.
 3.
