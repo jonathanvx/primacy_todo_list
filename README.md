@@ -19,4 +19,5 @@ Here is an explanation about them:
 ## Jordan Peterson
 - The 'to stop' part was taken from Peterson. He talks about stop doing things that take you away from your goals and to-do lists don't often have 'to-stop' parts to them and it did seem like a good idea to focus on what not to do as well as what to do.
 
-
+## Elon Musk
+- Lastly, I wasn't getting a lot of traction with my previous lists, so I took some advice from Elon Musk which was to plan using a calendar. So far, it seems to solidify some planning.
